@@ -1,0 +1,6 @@
+{
+  "name": "抽象 Femboy 模拟器",
+  "description": "足够抽象，足够刻板印象。一款充满深炸梗与白丝代码文化的赛博文字游戏。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
